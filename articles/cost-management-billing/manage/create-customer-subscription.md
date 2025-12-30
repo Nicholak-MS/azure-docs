@@ -8,7 +8,7 @@ ms.reviewer: nicholak
 ms.service: cost-management-billing
 ms.subservice: billing
 ms.topic: conceptual
-ms.date: 08/21/2025
+ms.date: 12/29/2025
 ---
 
 # Create a subscription for a partner's customer
